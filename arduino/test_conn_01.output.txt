@@ -1,0 +1,13 @@
+21:41:12.524 -> ESP-ROM:esp32s3-20210327
+21:41:12.524 -> Build:Mar 27 2021
+21:41:12.524 -> rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BOOT)
+21:41:12.524 -> SPIWP:0xee
+21:41:12.524 -> mode:DIO, clock div:1
+21:41:12.524 -> load:0x3fce2820,len:0x116c
+21:41:12.524 -> load:0x403c8700,len:0xc2c
+21:41:12.524 -> load:0x403cb700,len:0x3108
+21:41:12.524 -> entry 0x403c88b8
+21:41:12.686 -> Starting NimBLE Client initialization...
+21:41:12.723 -> Starting scan to find GP-5 BLE device...
+21:41:12.882 -> GP-5 BLE Advertisement found! Address: c2:98:81:98:b5:48
+21:41:43.886 -> ERROR: Failed to initiate connection.
